@@ -1,5 +1,4 @@
 package mestra;
-
 /*
 Create an algorithm to calculate how many horseshoes are needed to equip all the horses purchased for a stud farm.
 The user must enter the number of horses purchased.
