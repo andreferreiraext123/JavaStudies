@@ -29,6 +29,7 @@ public class AreaValue {
 
         System.out.println("Land area:  " + areaTotalMeters);
         System.out.println("Value of land area:  " + valueOfLandArea);
+        System.out.println(underline);
 
 
     }
