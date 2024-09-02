@@ -1,9 +1,9 @@
 package mestra;
+import java.util.Scanner;
 /*
 Create an algorithm that receives the value of the minimum wage and the value of an employee's salary,
 calculates and displays the amount of minimum wage that this employee earns.
  */
-import java.util.Scanner;
 
 public class AmountOfWages {
     public static void main(String[] args) {
