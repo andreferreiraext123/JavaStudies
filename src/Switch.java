@@ -9,10 +9,10 @@ public class Switch {
             case 2:
                 System.out.println("Tuesday");
                 break;
-            case 4:
+            case 3:
                 System.out.println("Wednesday");
                 break;
-            case 5:
+            case 4:
                 System.out.println("Thursday");
                 break;
             case 5:
