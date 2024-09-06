@@ -1,3 +1,5 @@
+package basic_concepts;
+
 public class Conditionals {
     public static void main(String[] args){
         int a = 10;

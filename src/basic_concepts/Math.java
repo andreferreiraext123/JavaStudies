@@ -1,3 +1,5 @@
+package basic_concepts;
+
 public class Math {
     public static void main(String[] args){
         int num_1 = 20;

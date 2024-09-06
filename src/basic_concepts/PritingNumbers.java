@@ -1,3 +1,5 @@
+package basic_concepts;
+
 public class PritingNumbers {
     public static void main(String[] args){
         System.out.println(100);

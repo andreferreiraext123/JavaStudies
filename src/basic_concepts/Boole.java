@@ -1,3 +1,5 @@
+package basic_concepts;
+
 public class Boole {
     public static void main(String[] args){
         // Boolean values are mostly used for conditional testing.

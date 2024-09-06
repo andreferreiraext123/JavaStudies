@@ -1,3 +1,5 @@
+package basic_concepts;
+
 public class ComparisonOp {
     public static void main(String[] args){
         /* Comparison operators are used to compare two values (or variables).

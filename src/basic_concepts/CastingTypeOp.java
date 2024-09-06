@@ -1,3 +1,5 @@
+package basic_concepts;
+
 public class CastingTypeOp {
     public static void main(String[] args) {
         // Calculate the percentage of the user's score in relation to the maximum available score.

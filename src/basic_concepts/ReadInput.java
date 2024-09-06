@@ -1,4 +1,6 @@
-import java.util.Scanner; //Importa a classe Scanner do pacote java.util para poder usá-la
+package basic_concepts;
+
+import java.util.Scanner;
 
 public class ReadInput {
     public static void main(String[] args){

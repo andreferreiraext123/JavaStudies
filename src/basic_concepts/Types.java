@@ -1,3 +1,5 @@
+package basic_concepts;
+
 public class Types {
     public static void main(String[] args){
        // Java Data Types

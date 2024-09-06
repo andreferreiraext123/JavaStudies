@@ -1,3 +1,5 @@
+package basic_concepts;
+
 import java.util.Scanner;
 
 public class DrivingTime {

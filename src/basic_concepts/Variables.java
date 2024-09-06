@@ -1,3 +1,5 @@
+package basic_concepts;
+
 public class Variables {
     public static void main(String[] args){
         // stores text, such as "Hello". String values are surrounded by double quotes

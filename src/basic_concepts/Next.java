@@ -1,4 +1,4 @@
-/*
+package basic_concepts;/*
 Diferença entre os comandos next e nextLine:
     O comando next lê a próxima palavra do input, parando quando encontra um espaço em branco.
     O comando nextLine lê toda a linha até encontrar uma quebra de linha (\n).

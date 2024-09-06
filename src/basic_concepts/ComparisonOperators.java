@@ -1,5 +1,7 @@
-import java.util.Scanner;
+package basic_concepts;
+
 import java.util.InputMismatchException;
+import java.util.Scanner;
 
 public class ComparisonOperators {
     public static void main(String[] args) {
