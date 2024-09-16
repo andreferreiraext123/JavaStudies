@@ -22,9 +22,9 @@ public class GasStation {
         }
         // Applying discounts on gasoline
         if (gasQuantity <= 20){
-            gasQuantityDiscount = (gasQuantity * 0.96);
+            gasQuantityDiscount = (gasQuantity * 0.96) * 5.5;
         } else if (gasQuantity > 20) {
-            gasQuantityDiscount = (gasQuantity * 0.94);
+            gasQuantityDiscount = (gasQuantity * 0.94) * 3.9;
         }
 
         // Printing results
@@ -36,4 +36,3 @@ public class GasStation {
         input.close();
     }
 }
-
